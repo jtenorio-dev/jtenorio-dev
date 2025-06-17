@@ -6,7 +6,7 @@
 <br> -->
 
 
-<h2 align="center">
+<!-- <h2 align="center">
   <samp>
     「 <b>Connect With Me</b> 」
   </samp>
@@ -26,6 +26,6 @@
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="jtenorio-dev"  />
   </a> 
 </p>
-<br />
+<br /> -->
 
 
