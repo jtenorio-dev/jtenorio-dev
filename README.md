@@ -19,9 +19,6 @@
  <a href="mailto:jtenorio.dev@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-fe4164?style=for-the-badge&logo=gmaail&logoColor=white" alt="jtenorio.dev" />
  </a> 
- <a href="https://facebook.com/sphinxnine" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="sphinxnine"  />
-  </a> 
 </p>
 <br />
 
