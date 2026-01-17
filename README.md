@@ -6,9 +6,11 @@
 </div>
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1643514062/184/nyancat_big.gif?1643514062" height="28px" width="28px"> I'm 0xd503201f
-*Cyber Security Analyst | Software Developer*
+*Cyber Security Analyst | Software Developer *
 
 Hi! I'm a cybersecurity enthusiast passionate about learning and exploring the world of hacking. I love Python, solving CTF challenges, reverse engineering, and sharpening my skills on platforms like TryHackMe and Hack The Box.  
+
+![jtenorio-dev Profile Views](https://komarev.com/ghpvc/?username=jtenorio-dev&color=8F00FF&style=flat-square)
 
 👋 About Me
 
@@ -28,7 +30,7 @@ Hi! I'm a cybersecurity enthusiast passionate about learning and exploring the w
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-template-rows: minmax(auto, 1fr); gap: 8px; align-items:start;">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=jtenorio-dev&repo=syncnet&theme=tokyonight">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=jtenorio-dev&repo=clancymod&theme=tokyonight">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=jtenorio-dev&repo=library-management-api&theme=tokyonight">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=jtenorio-dev&repo=library-management-api&theme=tokyonight" style="display:block;">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=jtenorio-dev&repo=secure-file-upload-flask&theme=tokyonight">
 </div>
 
