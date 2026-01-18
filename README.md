@@ -6,7 +6,7 @@
 </div>
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1643514062/184/nyancat_big.gif?1643514062" height="28px" width="28px"> I'm 0xd503201f
-*Cyber Security Analyst | Software Developer *
+*Cyber Security Analyst | Software Developer*
 
 Hi! I'm a cybersecurity enthusiast passionate about learning and exploring the world of hacking. I love Python, solving CTF challenges, reverse engineering, and sharpening my skills on platforms like TryHackMe and Hack The Box.  
 
