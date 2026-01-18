@@ -27,7 +27,7 @@ Hi! I'm a cybersecurity enthusiast passionate about learning and exploring the w
 
 <h2 align="center">Projects</h2>
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-template-rows: minmax(auto, 1fr); gap: 8px; align-items:start;">
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-template-rows: minmax(auto, 1fr); gap: 8px; align-items:start; align-content:start;">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=jtenorio-dev&repo=syncnet&theme=tokyonight">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=jtenorio-dev&repo=clancymod&theme=tokyonight">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=jtenorio-dev&repo=library-management-api&theme=tokyonight" style="display:block;">
