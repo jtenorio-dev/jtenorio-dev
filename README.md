@@ -31,7 +31,7 @@ Hi! I'm a cybersecurity enthusiast passionate about learning and exploring the w
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=jtenorio-dev&repo=syncnet&theme=tokyonight">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=jtenorio-dev&repo=clancymod&theme=tokyonight">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=jtenorio-dev&repo=flask-application-template&theme=tokyonight" style="display:block;">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=jtenorio-dev&repo=secure-file-upload-flask&theme=tokyonight">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=jtenorio-dev&repo=crackmes&theme=tokyonight">
 </div>
 
 <h2 align="center">Connect With Me</h2>
